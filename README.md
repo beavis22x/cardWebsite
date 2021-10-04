@@ -1,2 +1,2 @@
 # cardWebsite
-busines-card-website
+business-card-website
